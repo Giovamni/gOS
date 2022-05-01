@@ -4,7 +4,7 @@ gOS (pronounced "g-o-s") is a "learning as go" type of OS development project.
 ## To-do List:
 - [x] Learn Markdown
 - [ ] Understanding Git & Github
-- [ ] Understanding in Makefiles
+- [ ] Understanding Makefiles
 - [ ] Understand computer physical architecture
 - [ ] Dynamic allocation
 - [ ] Understanding basic commands in Linux
