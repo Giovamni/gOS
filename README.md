@@ -11,4 +11,4 @@ gOS (pronounced "go-s") is a "learning as go" type of OS development project.
 - [ ] Understanding compiling/linking projects with GCC (difference between static/dynamic linking) 
 - [ ] x86_64 Assembly learning
 - [ ] C language learning
-- [ ] Look over ![barebone's reference](https://github.com/stivale/stivale2-barebones) & ![limine's protocol](https://github.com/limine-bootloader/limine/blob/trunk/PROTOCOL.md)
+- [ ] Look over ![Limine Barebone's reference](https://github.com/limine-bootloader/limine-barebones) & ![Limine's protocol](https://github.com/limine-bootloader/limine/blob/trunk/PROTOCOL.md) & ![Limine Bare Bones Wiki](https://wiki.osdev.org/Limine_Bare_Bones)
