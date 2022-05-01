@@ -1,5 +1,5 @@
 # gOS
-gOS (pronounced "g-o-s") is a "learning as go" type of OS development project.
+gOS (pronounced "go-s") is a "learning as go" type of OS development project.
 
 ## To-do List:
 - [x] Learn Markdown
